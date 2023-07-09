@@ -24,10 +24,13 @@
 * Figma
 
 ## 💻 About this project
-Explorer stage two challenge creating the layout, I went further and made the layout responsive, create an interactive mobile menu only with css.
+Explorer stage two challenge creating the layout, I went further and made the layout responsive, creating an interactive mobile menu only with css.
+<br>
+##Deploy
+GitubPage: <a target="_blank" href="https://micaelapinheirods.github.io/recreating-layout-explorer-stage-2/">Deploy Application</a>
 <br>
 ## 😋 Disclaim
-sorry my English, i trying
+sorry my English, I trying
 <br>
 <br>
 
