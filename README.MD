@@ -26,7 +26,7 @@
 ## 💻 About this project
 Explorer stage two challenge creating the layout, I went further and made the layout responsive, creating an interactive mobile menu only with css.
 <br>
-##Deploy
+## Deploy
 GitubPage: <a target="_blank" href="https://micaelapinheirods.github.io/recreating-layout-explorer-stage-2/">Deploy Application</a>
 <br>
 ## 😋 Disclaim
